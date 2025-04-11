@@ -1,0 +1,23 @@
+[
+    {
+        "Title": "Jannat k Patty",
+        "Author": "Nimra Ahmed",
+        "Year": 2012,
+        "Genre": "Islamic Fiction",
+        "Read": true
+    },
+    {
+        "Title": "Amarbail",
+        "Author": "Umera Ahmed",
+        "Year": 2000,
+        "Genre": "Psychological Fiction",
+        "Read": false
+    },
+    {
+        "Title": "Amarbail",
+        "Author": "Sumaira Hameed",
+        "Year": 2017,
+        "Genre": "Romantic Fiction",
+        "Read": true
+    }
+]
